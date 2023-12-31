@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\EL ENCUENTRO\Documents\Tracking\image-tracking\ndi-python\CMakeFiles\86e60a883c8ad5930b93b3b0a31ebdb1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1D3C39DE-3BD8-3630-9D30-CFE4C0AD1E64}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
